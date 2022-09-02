@@ -1,0 +1,203 @@
+--------------------------------------------------------------------------------------------------
+
+        *****************************************************************
+        |              VIRTUAL KEY FOR YOUR REPOSIITORIES               |
+        *                                                               *
+        |                               -ppk                            |
+
+        *****************************************************************
+
+
+   Info:-
+   Here you can Sort, Add, Delete and Search opreration of fIles in your given path Directory.
+
+   Give the Path of Directory:- E://simplilearn
+
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- 1
+
+   The files and folders in E://simplilearn are >
+
+     Career Transition Booklet.pdf
+     course
+     Full Stack Java Developer Master Program.pdf
+     github
+     p praveen 2022.docx
+     phase1
+     virtualkey
+
+   Enter 0 for main menu or  1 to exit? 0
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- 2
+
+   Enter File Name for which you  want do operations in existing Directory,
+   (E://simplilearn ) :- test.txt
+
+   >>>>>>>>>>>>>>>>>>>>
+
+     1. Add file
+     2. Delete file
+     3. Search file
+     4. Return to Main Menu
+     5. Quit
+
+
+
+     Select one of the option (1/2/3/4/5):- 1
+   File is Added
+
+   Enter 0 for main menu or  1 to exit? 0
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- 1
+
+   The files and folders in E://simplilearn are >
+
+     Career Transition Booklet.pdf
+     course
+     Full Stack Java Developer Master Program.pdf
+     github
+     p praveen 2022.docx
+     phase1
+     test.txt
+     virtualkey
+
+   Enter 0 for main menu or  1 to exit? 0
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- test.txt
+
+   Please check input 
+
+
+     Select one of the option (1/2/3):- 2
+
+   Enter File Name for which you  want do operations in existing Directory,
+   (E://simplilearn ) :- test.txt
+
+   >>>>>>>>>>>>>>>>>>>>
+
+     1. Add file
+     2. Delete file
+     3. Search file
+     4. Return to Main Menu
+     5. Quit
+
+
+
+     Select one of the option (1/2/3/4/5):- 3
+     E:\simplilearn\test.txt
+
+   Enter 0 for main menu or  1 to exit? 0
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- 2
+
+   Enter File Name for which you  want do operations in existing Directory,
+   (E://simplilearn ) :- Test.
+
+   >>>>>>>>>>>>>>>>>>>>
+
+     1. Add file
+     2. Delete file
+     3. Search file
+     4. Return to Main Menu
+     5. Quit
+
+
+
+     Select one of the option (1/2/3/4/5):- 4
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- 2
+
+   Enter File Name for which you  want do operations in existing Directory,
+   (E://simplilearn ) :- test.txt
+
+   >>>>>>>>>>>>>>>>>>>>
+
+     1. Add file
+     2. Delete file
+     3. Search file
+     4. Return to Main Menu
+     5. Quit
+
+
+
+     Select one of the option (1/2/3/4/5):- 2
+   File is deleted
+
+   Enter 0 for main menu or  1 to exit? 0
+
+   >>>>>>>>>>>>>>>>>>>>
+
+   File operations are : 
+     1. Sort Files in Asscending Order
+     2. Add, Delete, Sreach a FILe
+     3. Quit
+
+
+     Select one of the option (1/2/3):- 2
+
+   Enter File Name for which you  want do operations in existing Directory,
+   (E://simplilearn ) :- test.txt
+
+   >>>>>>>>>>>>>>>>>>>>
+
+     1. Add file
+     2. Delete file
+     3. Search file
+     4. Return to Main Menu
+     5. Quit
+
+
+
+     Select one of the option (1/2/3/4/5):- 3
+   File not Found
+
+   Enter 0 for main menu or  1 to exit? 1
+   ***Exited Sucessfully*** 
